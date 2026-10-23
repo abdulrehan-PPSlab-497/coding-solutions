@@ -52,7 +52,7 @@ Print the appropriate English representation,`even`, or `odd`, based on the cond
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-23T19:35:19.224Z  
+**Submitted:** 2026-10-23T19:35:29.329Z  
 
 ```c
 //WAP to print EVEN no ODD numbers using for loop with switch case
